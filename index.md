@@ -1,9 +1,3 @@
-
----
-layout: default
----
----
-
 Intelligent Support System for Tutor of Studies
 ================================================
 
