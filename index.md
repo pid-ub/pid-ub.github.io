@@ -1,3 +1,4 @@
+
 Intelligent Support System for Tutor of Studies
 ================================================
 
@@ -18,6 +19,8 @@ extract relevant information hidden in the student academic data and, thus, help
 based on machine learning techniques, makes predictions of dropout intention and courses grades of students, as well as personalized course recommendations. Moreover,
 we present different visualizations which help in the interpretation of the results. In the experimental validation, we show that the system obtains promising results with data
 from the degree studies in Law, Computer Science and Mathematics of the Universitat de Barcelona.
+
+**Data** from law, mathematics and computer science degrees: [s1 and s2 csv files of the supporting information](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171207#sec022)
 
 ## Team:
 
@@ -42,7 +45,7 @@ Other members:
 - Laura Portell [TFG](http://diposit.ub.edu/dspace/handle/2445/105682)(2016)
 - Sergi Rovira (2016)
 
-Sample of the results in: http://pid-ub.github.io/
+Sample of the results in: http://pid-ub.github.io/tfg
 
 
 
