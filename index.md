@@ -9,6 +9,10 @@ The system will be extremely helpful for the tutor of studies task which can use
 
 [This repository](https://github.com/pid-ub/pid-UB) contains part of the code of the project.
 
+# Sample Demo of the IEE 2018 Poster Dashboard Project
+
+<a class="btn btn-success btn-lg btn-block" href="/demo">View the Dashboard Demo Here</a>
+
 
 ## Publication: "Data-driven System to Predict Academic Grades and Dropout"
 
