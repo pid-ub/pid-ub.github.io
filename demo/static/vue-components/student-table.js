@@ -51,7 +51,7 @@ Vue.component('student-table', {
     </thead>
 
     <tbody v-if="students.length > 0">
-        <tr  v-for="(student, i) in students">
+        <tr v-for="(student, i) in students">
             <td>{{i+1}}</td>
             <td valign="middle">
                 <span>
@@ -90,7 +90,7 @@ Vue.component('student-table', {
             </td>
 
             <td v-if="showActions">
-                <a href="#" class="btn btn-primary btn-xs">
+                <a :href="student.recordSet[0].predDropout ? 'student-drop.html' : 'student.html'" class="btn btn-primary btn-xs">
                 <i class="fa fa-folder"></i> View </a>
                 <a href="#" class="btn btn-success btn-xs">
                     <i class="fa fa-commenting"></i> Message
