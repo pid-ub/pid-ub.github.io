@@ -1,0 +1,504 @@
+{
+    "data": {
+        "records": [{
+            "id": "363",
+            "yearStarted": 2010,
+            "meanGrade": 3.3,
+            "predDropout": true,
+            "percentile": 72,
+            "gradeSet": [{
+                "course": {
+                    "name": "Matematica Discreta",
+                    "tag": "MD"
+                },
+                "value": 5.5,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Introduccio als Ordinadors",
+                    "tag": "IO"
+                },
+                "value": 2.0,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Programacio 2",
+                    "tag": "P2"
+                },
+                "value": 0.0,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Fisica",
+                    "tag": "FIS"
+                },
+                "value": 5.0,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Estructura de Dades",
+                    "tag": "ED"
+                },
+                "value": 0.0,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Algorismica",
+                    "tag": "ALGO"
+                },
+                "value": 3.9,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Programacio 1",
+                    "tag": "P1"
+                },
+                "value": 3.0,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Calcul",
+                    "tag": "CAL"
+                },
+                "value": 6.8,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Diseny Digital Basic",
+                    "tag": "DDB"
+                },
+                "value": 1.3,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Algebra",
+                    "tag": "ALGE"
+                },
+                "value": 5.5,
+                "year": 2010,
+                "predicted": false
+            }, {
+                "course": {
+                    "name": "Grafics i Visualitzacio de Dades",
+                    "tag": "GiVD"
+                },
+                "value": 3.6,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Sistemes Operatius 2",
+                    "tag": "SO2"
+                },
+                "value": 5.0,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Xarxes",
+                    "tag": "XAR"
+                },
+                "value": 4.4,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Programacio d'Arquitectures Encastrades",
+                    "tag": "PAE"
+                },
+                "value": 5.1,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Sistemes Operatius 1",
+                    "tag": "SO1"
+                },
+                "value": 3.3,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Projecte Integrat de Software",
+                    "tag": "PIS"
+                },
+                "value": 5.7,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Estructura de Computadors",
+                    "tag": "EC"
+                },
+                "value": 3.7,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Introduccio a la Computacio Cientifica",
+                    "tag": "ICC"
+                },
+                "value": 4.3,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Diseny de Software",
+                    "tag": "DS"
+                },
+                "value": 3.8,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Algorismica Avancada",
+                    "tag": "AA"
+                },
+                "value": 3.9,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Estructura de Dades",
+                    "tag": "ED"
+                },
+                "value": 3.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Factors Humans i Computacio",
+                    "tag": "FHIC"
+                },
+                "value": 3.8,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Diseny Digital Basic",
+                    "tag": "DDB"
+                },
+                "value": 3.4,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Programacio 1",
+                    "tag": "P1"
+                },
+                "value": 3.2,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Talles de Nous Usos de la Informatica",
+                    "tag": "TNUI"
+                },
+                "value": 4.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Visio Artifical",
+                    "tag": "VA"
+                },
+                "value": 4.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Intelligencia Artifical",
+                    "tag": "IA"
+                },
+                "value": 4.1,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Bases de Dades",
+                    "tag": "BD"
+                },
+                "value": 4.0,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Logica i Llenguatge",
+                    "tag": "LIL"
+                },
+                "value": 4.6,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Software Distribuit",
+                    "tag": "SWD"
+                },
+                "value": 4.2,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Introduccio als Ordinadors",
+                    "tag": "IO"
+                },
+                "value": 3.2,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Probabilitat i Estadistica",
+                    "tag": "PIE"
+                },
+                "value": 4.6,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Empresa",
+                    "tag": "EMP"
+                },
+                "value": 4.4,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Electronica",
+                    "tag": "ELEC"
+                },
+                "value": 4.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Algorismica",
+                    "tag": "ALGO"
+                },
+                "value": 3.9,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Programacio 2",
+                    "tag": "P2"
+                },
+                "value": 3.7,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Grafics i Visualitzacio de Dades",
+                    "tag": "GiVD"
+                },
+                "value": 3.6,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Xarxes",
+                    "tag": "XAR"
+                },
+                "value": 4.4,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Sistemes Operatius 1",
+                    "tag": "SO1"
+                },
+                "value": 3.3,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Estructura de Computadors",
+                    "tag": "EC"
+                },
+                "value": 3.7,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Introduccio a la Computacio Cientifica",
+                    "tag": "ICC"
+                },
+                "value": 4.3,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Diseny de Software",
+                    "tag": "DS"
+                },
+                "value": 3.8,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Algorismica Avancada",
+                    "tag": "AA"
+                },
+                "value": 3.9,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Estructura de Dades",
+                    "tag": "ED"
+                },
+                "value": 3.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Factors Humans i Computacio",
+                    "tag": "FHIC"
+                },
+                "value": 3.8,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Diseny Digital Basic",
+                    "tag": "DDB"
+                },
+                "value": 3.4,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Programacio 1",
+                    "tag": "P1"
+                },
+                "value": 3.2,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Talles de Nous Usos de la Informatica",
+                    "tag": "TNUI"
+                },
+                "value": 4.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Visio Artifical",
+                    "tag": "VA"
+                },
+                "value": 4.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Intelligencia Artifical",
+                    "tag": "IA"
+                },
+                "value": 4.1,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Bases de Dades",
+                    "tag": "BD"
+                },
+                "value": 4.0,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Logica i Llenguatge",
+                    "tag": "LIL"
+                },
+                "value": 4.6,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Software Distribuit",
+                    "tag": "SWD"
+                },
+                "value": 4.2,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Introduccio als Ordinadors",
+                    "tag": "IO"
+                },
+                "value": 3.2,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Probabilitat i Estadistica",
+                    "tag": "PIE"
+                },
+                "value": 4.6,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Empresa",
+                    "tag": "EMP"
+                },
+                "value": 4.4,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Electronica",
+                    "tag": "ELEC"
+                },
+                "value": 4.5,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Algorismica",
+                    "tag": "ALGO"
+                },
+                "value": 3.9,
+                "year": 0,
+                "predicted": true
+            }, {
+                "course": {
+                    "name": "Programacio 2",
+                    "tag": "P2"
+                },
+                "value": 3.7,
+                "year": 0,
+                "predicted": true
+            }],
+            "degree": {
+                "name": "Enginyeria Informatica",
+                "yearlyAverage": [{
+                    "value": 6.24
+                }, {
+                    "value": 5.74
+                }, {
+                    "value": 6.05
+                }, {
+                    "value": 6.12
+                }, {
+                    "value": 5.99
+                }, {
+                    "value": 5.89
+                }]
+            },
+            "yearlyAverage": [{
+                "year": 2010,
+                "value": 3.3
+            }]
+        }]
+    }
+}

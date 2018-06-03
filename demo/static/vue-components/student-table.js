@@ -56,7 +56,7 @@ Vue.component('student-table', {
             <td valign="middle">
                 <span>
                     <img v-if="showImage" :src="student.profile.image" class="avatar" style="margin-right:8px">
-					<a :href="'/profile/s/' + student.niub">
+					<a :href="student.recordSet[0].predDropout ? 'student-drop.html' : 'student.html'">
                     {{student.profile.fullName}}
 					</a>
                 </span>
