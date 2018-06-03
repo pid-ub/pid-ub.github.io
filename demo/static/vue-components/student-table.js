@@ -90,9 +90,9 @@ Vue.component('student-table', {
             </td>
 
             <td v-if="showActions">
-                <a :href="'/profile/s/' + student.niub" class="btn btn-primary btn-xs">
+                <a href="#" class="btn btn-primary btn-xs">
                 <i class="fa fa-folder"></i> View </a>
-                <a :href="'/inbox/?open=' + student.niub" class="btn btn-success btn-xs">
+                <a href="#" class="btn btn-success btn-xs">
                     <i class="fa fa-commenting"></i> Message
                 </a>
             </td>
