@@ -49,7 +49,9 @@ Other members:
 - Daniel Urdas: [TFG](http://diposit.ub.edu/dspace/handle/2445/68450) (2015)
 - Xavi Moreno [TFG](http://diposit.ub.edu/dspace/handle/2445/67262)(2015)
 - Laura Portell [TFG](http://diposit.ub.edu/dspace/handle/2445/105682)(2016)
-- Sergi Rovira (2016)
+- Sergi Rovira [TFG](http://diposit.ub.edu/dspace/handle/2445/119113) (2016)
+- Herman Dempere [TFG](http://diposit.ub.edu/dspace/handle/2445/130959) (2017-18)
+  - Dashboard demo at: http://pid-ub.github.io/demo/
 
 Sample of the results in: [http://pid-ub.github.io/tfg](http://pid-ub.github.io/tfg)
 
